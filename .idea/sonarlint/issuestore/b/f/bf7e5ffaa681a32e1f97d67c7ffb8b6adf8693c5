@@ -1,0 +1,10 @@
+
+~
+java:S1488("hImmediately return this expression instead of assigning it to the temporary variable "productResponses".(–Å×¯
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çÊĞöıÿÿÿÿ
+^
+java:S3457""AFormat specifiers should be used instead of string concatenation.(úòğ8šŸ¹«ô1
+o
+java:S6204*"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ÿ¹«ô1
+d
+java:S1612)"GReplace this lambda with method reference 'this::mapToProductResponse'.(Œª…8ŸŸ¹«ô1

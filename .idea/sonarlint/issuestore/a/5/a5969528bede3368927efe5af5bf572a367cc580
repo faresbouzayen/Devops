@@ -1,0 +1,5 @@
+
+o
+java:S6204$"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8í£»«ô1
+s
+java:S1128"QRemove this unused import 'com.microservices.orderservice.dto.OrderLineItemsDto'.(Ñû¬Åýÿÿÿÿ8ó£»«ô1

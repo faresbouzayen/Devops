@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘â‰Á
+m
+java:S1128"KRemove this unused import 'com.microservices.productservice.model.Product'.(ÅÑ·Äüÿÿÿÿ8á¦¯­ô1
+]
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØŽúøÿÿÿÿ8á¦¯­ô1
