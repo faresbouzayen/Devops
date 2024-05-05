@@ -5,6 +5,7 @@ import com.microservices.inventoryservice.repository.InventoryRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -18,7 +19,7 @@ public class InventoryService {
 
     @Transactional(readOnly = true)
     public List<InventoryResponse> isInStock(List<String> skuCodes) {
-        return inventoryRepository.findBySkuCodeIn(skuCodes.toString())
+        return inventoryRepository.findBySkuCodeIn(Collections.singleton(skuCodes.toString()))
                 .stream()
                 .map(inventoryModel -> {
                     return new InventoryResponse(
