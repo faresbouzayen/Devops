@@ -51,3 +51,9 @@ Porder-service/src/main/java/com/microservices/orderservice/dto/OrderRequest.jav
 \order-service/src/test/java/com/microservices/orderservice/OrderServiceApplicationTests.java,5\4\5489d173f068f088aac8dd57deb49545fa07785a
 ò
 hinventory-service/src/test/java/com/microservices/inventoryservice/InventoryServiceApplicationTests.java,5\d\5da49436030cb0daa2bd638d03b32252a1c964d6
+Ü
+Vorder-service/src/main/java/com/microservices/orderservice/config/WebClientConfig.java,e\5\e56f16792f4c46f4a9cd8a66dbbe6e1967ec132b
+ç
+]inventory-service/src/main/java/com/microservices/inventoryservice/dto/InventoryResponse.java,2\d\2dea0ca98e020e5df268f171d1a3e878cc7530b0
+Ö
+Uorder-service/src/main/java/com/microservices/orderservice/dto/InventoryResponse.java,d\e\de0133498f360d91df7dd92ff26935c93d8d9582
