@@ -1,9 +1,0 @@
-
-]
-java:S1128"GRemove this unused import 'com.microservices.orderservice.model.Order'.(»Κΐ
-Q
-java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(΄Ύφωÿÿÿÿ
-C
-java:S1128"(Remove this unused import 'lombok.Data'.(χν«ÿÿÿÿÿ
-K
-java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(Έ¨›
